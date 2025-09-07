@@ -1,5 +1,7 @@
-// Simple C++ program to display "Hello World" 
+HEAD
+// Simple C++ program to display "testing git merge" 
 // Ethan Stoneman <hm2079@wayne.edu>
+main
 #include<iostream>  
   
 using namespace std; 
@@ -8,8 +10,8 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
-    // prints hello world 
-    cout<<"Hello World!"; 
+    // prints testing git merge
+    cout<<"Testing git merge!"; 
       
     return 0; 
 } 
