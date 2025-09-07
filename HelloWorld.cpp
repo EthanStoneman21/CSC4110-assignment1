@@ -1,5 +1,7 @@
+HEAD
 // Simple C++ program to display "testing git merge" 
-// Header file for input output functions 
+// Ethan Stoneman <hm2079@wayne.edu>
+main
 #include<iostream>  
   
 using namespace std; 
